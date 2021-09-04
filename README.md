@@ -11,3 +11,5 @@ Implemented AWS SageMaker functionalities along with S3 bucket for secure storag
 ###	Steven Gorfman
 ###	Hanish Pallapothu
 ###	Mahima Chandan
+
+![Screen Shot 2021-09-04 at 1 04 52 PM](https://user-images.githubusercontent.com/72769273/132102692-8c564b26-335d-402c-910d-9866a379f0e2.png)
