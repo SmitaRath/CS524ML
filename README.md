@@ -1,24 +1,13 @@
 # CS524ML
 Heart Attack Data Analysis &amp; Prediction
-Goal:
-Classification of Heart Disease (patient either has heart disease or not) and train the model for prediction.
 
-Programming:
-1.	Karan Modi
-2.	Shweta Naik
-3.	Steven Gorfman
-4.	Hanish Pallapothu
+Implemented AWS SageMaker functionalities along with S3 bucket for secure storage to build a machine learning model for heart attack prediction and added AWS lambda to facilitate visualization
 
-
-Report/Paper/PPT:
-1.	Mahima Chandan
-2.	Smita Rath
-3.	Abhijeet Dhillon
-
-
-Next Team Call: 
-Wednesday
-
-
-Tools: 
-AWS, Visual Code
+## Team Members
+###	Abhijeet Dhillon
+###	Karan Modi
+###	Shweta Naik
+###	Smita Rath
+###	Steven Gorfman
+###	Hanish Pallapothu
+###	Mahima Chandan
